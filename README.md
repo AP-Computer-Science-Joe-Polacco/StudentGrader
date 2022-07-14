@@ -1,4 +1,4 @@
-# StudentRecord
+# StudentGrader
 Grading Program
 
 Write a grading program for a class with the following grading policies:
