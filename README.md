@@ -6,7 +6,7 @@ Your tasks:
 1. Complete the TODO code in the StudentRecord class, as described below.
 2. Write a class called StudentGrader (from scratch) that contains your main method, as described below.
 
-You are to write a grading program for a high school class with the following grading policies:
+The grading program for a high school class has the following grading policies:
 
 a. There are three quizzes, each graded on the basis of 100 points. 
 The lowest quiz score is dropped.
