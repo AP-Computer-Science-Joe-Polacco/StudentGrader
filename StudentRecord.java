@@ -33,7 +33,7 @@
  * 
  * StudentRecord created...
  * 
- * Student: Ava Lovelace
+ * Student: Ada Lovelace
  * quiz1: 90
  * quiz2: 50
  * quiz3: 80
