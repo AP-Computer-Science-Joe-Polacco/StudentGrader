@@ -76,6 +76,7 @@ public class StudentRecord{
      */
     public char letterGrade(){
          // TODO: your code here
+         // Hint: you may need to call the numericGrade() method first
          return ' '; // delete this line of code
     }
    
